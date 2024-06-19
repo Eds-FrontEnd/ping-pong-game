@@ -11,4 +11,4 @@
 
 <br>
 
-<img align="left" height="440em" src="./img/readme.jpg"/>
+<img align="left" height="440em" src="./assets/img/readme.jpg"/>
